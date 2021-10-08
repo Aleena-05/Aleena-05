@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleena Sara Varghese
+- 👋 Hi, I’m Aleena Sara Varghese, final year B. Tech student at MITS Cochin.
 - 👀 I’m interested in Digital Electronics and Machine learning
 - 🌱 I’m currently learning C++, Java.
 - 📫 How to reach me - aleenasarav@gmail.com
